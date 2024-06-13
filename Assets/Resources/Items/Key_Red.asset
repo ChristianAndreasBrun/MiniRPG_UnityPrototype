@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdf8875611a575047869c0f0304b4c05, type: 3}
+  m_Name: Key_Red
+  m_EditorClassIdentifier: 
+  id: Key_Red
+  itemName: Red Key
+  description: 
+  icon: {fileID: 2015867876, guid: b8abe8fd32135f04590f9d50204f0f04, type: 3}
+  canPick: 1
+  keyUse: 101
+  function: UnlockChest
+  idChest:
+  - Chest_Wood

@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2840831134851002949
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 35066759143218306, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -89.90498
+      objectReference: {fileID: 0}
+    - target: {fileID: 35066759143218306, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 42.056694
+      objectReference: {fileID: 0}
+    - target: {fileID: 35066759143218306, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.037161
+      objectReference: {fileID: 0}
+    - target: {fileID: 35066759143218306, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 35066759143218306, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 35066759143218306, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 35066759143218306, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 35066759143218306, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 35066759143218306, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 35066759143218306, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6742549654323083648, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
+      propertyPath: m_Name
+      value: NPC_Sam (2) Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6819292203620425116, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
+      propertyPath: dialogue.dialogueLines.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6819292203620425116, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
+      propertyPath: dialogue.dialogueLines.Array.data[0].line
+      value: "\xA1Muy bien, chaval! Has tra\xEDdo el cristal que te ped\xED."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6819292203620425116, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
+      propertyPath: dialogue.dialogueLines.Array.data[1].line
+      value: "Seguro que alg\xFAn d\xEDa te convertir\xE1s en un h\xE9roe igual que
+        yo."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6819292203620425116, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
+      propertyPath: dialogue.dialogueLines.Array.data[2].line
+      value: "\xA1Pero por ahora, eres mi h\xE9roe personal del cristal! \xA1JA JA
+        JA!"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6819292203620425116, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
+      propertyPath: dialogue.dialogueLines.Array.data[3].line
+      value: "\xA1Muy bien, chaval! Has tra\xEDdo el cristal que te ped\xED.  "
+      objectReference: {fileID: 0}
+    - target: {fileID: 6819292203620425116, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
+      propertyPath: dialogue.dialogueLines.Array.data[4].line
+      value: "Seguro que alg\xFAn d\xEDa te convertir\xE1s en un h\xE9roe igual que
+        yo."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6819292203620425116, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
+      propertyPath: dialogue.dialogueLines.Array.data[5].line
+      value: "\xBFEsqueletos? S\xED, esos chicos de hueso que decidieron hacer una
+        fiesta en tu honor. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 6819292203620425116, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
+      propertyPath: dialogue.dialogueLines.Array.data[6].line
+      value: "\xA1Pero no te preocupes, seguro que sonr\xEDen mucho! \xA1JA JA JA!"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6819292203620425116, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
+      propertyPath: dialogue.dialogueLines.Array.data[7].line
+      value: "Una vez tengas el cristal, ven a verme. Estar\xE9 al lado del r\xEDo,
+        al norte del pueblo."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6819292203620425116, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
+      propertyPath: dialogue.dialogueLines.Array.data[8].line
+      value: "\xA1Espero que tengas buena punter\xEDa y que los esqueletos no te
+        saquen de quicio!"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6819292203620425116, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
+      propertyPath: dialogue.dialogueLines.Array.data[9].line
+      value: "\xA1Nos vemos al norte, junto al r\xEDo, siempre y cuando no seas la
+        cena de los monstruos! \xA1JA JA JA!"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6819292203620425116, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
+      propertyPath: dialogue.dialogueLines.Array.data[10].line
+      value: "\xA1Nos vemos al norte, junto al r\xEDo, siempre y cuando no seas la
+        cena de los monstruos! \xA1JA JA JA!"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6819292203620425116, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
+      propertyPath: dialogue.dialogueLines.Array.data[0].character.name
+      value: Sam
+      objectReference: {fileID: 0}
+    - target: {fileID: 6819292203620425116, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
+      propertyPath: dialogue.dialogueLines.Array.data[2].character.name
+      value: Sam
+      objectReference: {fileID: 0}
+    - target: {fileID: 6819292203620425116, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
+      propertyPath: dialogue.dialogueLines.Array.data[5].character.name
+      value: Sam
+      objectReference: {fileID: 0}
+    - target: {fileID: 6819292203620425116, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
+      propertyPath: dialogue.dialogueLines.Array.data[10].character.name
+      value: Sam
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fdb6296489937334d897b7a8f0f185c5, type: 3}
